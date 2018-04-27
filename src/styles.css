@@ -1,1 +1,20 @@
 /* You can add global styles to this file, and also import other style files */
+.content-header>h1 {
+  color: #fff0ff;
+}
+.content-header>h1>small {
+  color: #4dc4ff;
+}
+.content-header>.breadcrumb{
+  /*top: 1px!important;*/
+}
+.box{
+  background-color:hsla(0, 0%, 98%, 0.1)!important;
+  border-top: 1px!important;
+}
+.table>thead>tr>th{
+  color: #fff0ff;
+}
+.table>tbody>tr>td{
+  color: #fff0ff;
+}
